@@ -179,7 +179,7 @@ Place each file in the matching ComfyUI directory:
 | `qwen-image-2512-Q4_K_M.gguf` | `models/diffusion_models/` | [Hugging Face](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF/resolve/main/qwen-image-2512-Q4_K_M.gguf) |
 | `Qwen2.5-VL-7B-Instruct-Q4_K_M.gguf` | `models/clip/` | [Hugging Face](https://huggingface.co/unsloth/Qwen2.5-VL-7B-Instruct-GGUF/resolve/main/Qwen2.5-VL-7B-Instruct-Q4_K_M.gguf) |
 | `qwen_image_vae.safetensors` | `models/vae/` | [Hugging Face](https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors) |
-| `qwen_image_canny_diffsynth_controlnet.safetensors` | `models/diffusion_model_patches/` | [Hugging Face](https://huggingface.co/Comfy-Org/Qwen-Image-DiffSynth-ControlNets/resolve/main/split_files/model_patches/qwen_image_canny_diffsynth_controlnet.safetensors) |
+| `qwen_image_canny_diffsynth_controlnet.safetensors` | `models/model_patches/` | [Hugging Face](https://huggingface.co/Comfy-Org/Qwen-Image-DiffSynth-ControlNets/resolve/main/split_files/model_patches/qwen_image_canny_diffsynth_controlnet.safetensors) |
 | `Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors` | `models/loras/` | [Hugging Face](https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning/resolve/main/Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors) |
 | `z_image_turbo-Q4_K_M.gguf` | `models/diffusion_models/` | [Hugging Face](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF/resolve/main/z_image_turbo-Q4_K_M.gguf) |
 | `Qwen_3_4b-imatrix-IQ4_XS.gguf` | `models/clip/` | [Hugging Face](https://huggingface.co/worstplayer/Z-Image_Qwen_3_4b_text_encoder_GGUF/resolve/main/Qwen_3_4b-imatrix-IQ4_XS.gguf) |
